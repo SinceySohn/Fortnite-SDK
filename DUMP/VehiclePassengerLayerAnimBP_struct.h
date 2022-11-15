@@ -1,0 +1,46 @@
+// ScriptStruct VehiclePassengerLayerAnimBP.VehiclePassengerLayerAnimBP_C.AnimBlueprintGeneratedMutableData
+// Size: 0x15 (Inherited: 0x01)
+struct FAnimBlueprintGeneratedMutableData : FAnimBlueprintMutableData {
+	char pad_1[0x3]; // 0x01(0x03)
+	float __FloatProperty; // 0x04(0x04)
+	float ; // 0x08(0x04)
+	float ; // 0x0c(0x04)
+	float ; // 0x10(0x04)
+	bool ; // 0x14(0x01)
+};
+
+// ScriptStruct VehiclePassengerLayerAnimBP.VehiclePassengerLayerAnimBP_C.AnimBlueprintGeneratedConstantData
+// Size: 0x128 (Inherited: 0x01)
+struct FAnimBlueprintGeneratedConstantData : FAnimBlueprintConstantData {
+	char pad_1[0x3]; // 0x01(0x03)
+	struct FName ; // 0x04(0x04)
+	struct FName ; // 0x08(0x04)
+	struct FName ; // 0x0c(0x04)
+	struct FName ; // 0x10(0x04)
+	struct FName ; // 0x14(0x04)
+	struct FName ; // 0x18(0x04)
+	char pad_1C[0x4]; // 0x1c(0x04)
+	struct UBlendSpace* ; // 0x20(0x08)
+	struct UBlendSpace* ; // 0x28(0x08)
+	struct UBlendSpace* ; // 0x30(0x08)
+	bool ; // 0x38(0x01)
+	char pad_39[0x3]; // 0x39(0x03)
+	float ; // 0x3c(0x04)
+	float ; // 0x40(0x04)
+	enum class EAnimSyncMethod ; // 0x44(0x01)
+	enum class EAnimGroupRole ; // 0x45(0x01)
+	char pad_46[0x2]; // 0x46(0x02)
+	struct UBlendProfile* ; // 0x48(0x08)
+	struct UCurveFloat* ; // 0x50(0x08)
+	bool ; // 0x58(0x01)
+	enum class EAlphaBlendOption ; // 0x59(0x01)
+	enum class EBlendListTransitionType ; // 0x5a(0x01)
+	char pad_5B[0x5]; // 0x5b(0x05)
+	struct TArray<float> ; // 0x60(0x10)
+	struct FAnimNodeFunctionRef ; // 0x70(0x18)
+	struct FName ; // 0x88(0x04)
+	struct FName ; // 0x8c(0x04)
+	struct FAnimSubsystem_PropertyAccess AnimBlueprintExtension_PropertyAccess; // 0x90(0x80)
+	struct FAnimSubsystem_Base AnimBlueprintExtension_Base; // 0x110(0x18)
+};
+

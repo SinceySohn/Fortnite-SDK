@@ -1,0 +1,5 @@
+// BlueprintGeneratedClass Athena_PlayerCameraModeTargetingScope_DMR_NewFirstPerson.Athena_PlayerCameraModeTargetingScope_DMR_NewFirstPerson_C
+// Size: 0x1b10 (Inherited: 0x1b10)
+struct UAthena_PlayerCameraModeTargetingScope_DMR_NewFirstPerson_C : UAthena_PlayerCameraModeSniper_C {
+};
+

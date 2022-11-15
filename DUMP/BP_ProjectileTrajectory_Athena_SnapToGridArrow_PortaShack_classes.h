@@ -1,0 +1,5 @@
+// BlueprintGeneratedClass BP_ProjectileTrajectory_Athena_SnapToGridArrow_PortaShack.BP_ProjectileTrajectory_Athena_SnapToGridArrow_PortaShack_C
+// Size: 0x458 (Inherited: 0x458)
+struct ABP_ProjectileTrajectory_Athena_SnapToGridArrow_PortaShack_C : ABP_ProjectileTrajectory_Athena_SnapToGridArrow_C {
+};
+

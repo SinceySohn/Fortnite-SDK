@@ -1,0 +1,5 @@
+// BlueprintGeneratedClass GA_Athena_DeployableCampsite_Thrown_WithTrajectory_SecondaryAimed.GA_Athena_DeployableCampsite_Thrown_WithTrajectory_SecondaryAimed_C
+// Size: 0x11d0 (Inherited: 0x11d0)
+struct UGA_Athena_DeployableCampsite_Thrown_WithTrajectory_SecondaryAimed_C : UGA_Athena_CampsiteImprovement_Thrown_2nd_Trajectory_Parent_C {
+};
+

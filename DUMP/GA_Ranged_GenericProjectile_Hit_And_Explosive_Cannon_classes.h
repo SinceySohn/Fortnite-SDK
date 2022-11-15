@@ -1,0 +1,5 @@
+// BlueprintGeneratedClass GA_Ranged_GenericProjectile_Hit_And_Explosive_Cannon.GA_Ranged_GenericProjectile_Hit_And_Explosive_Cannon_C
+// Size: 0xb5d (Inherited: 0xb5d)
+struct UGA_Ranged_GenericProjectile_Hit_And_Explosive_Cannon_C : UGA_Ranged_GenericProjectileExplosive_Medium_C {
+};
+

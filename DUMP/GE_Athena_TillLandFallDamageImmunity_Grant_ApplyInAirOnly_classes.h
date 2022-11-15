@@ -1,0 +1,5 @@
+// BlueprintGeneratedClass GE_Athena_TillLandFallDamageImmunity_Grant_ApplyInAirOnly.GE_Athena_TillLandFallDamageImmunity_Grant_ApplyInAirOnly_C
+// Size: 0x858 (Inherited: 0x858)
+struct UGE_Athena_TillLandFallDamageImmunity_Grant_ApplyInAirOnly_C : UGE_Athena_TillLandFallDamageImmunity_Grant_Parent_C {
+};
+

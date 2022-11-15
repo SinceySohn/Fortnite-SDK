@@ -1,0 +1,50 @@
+// AnimBlueprintGeneratedClass BP_GrenadeLauncher.BP_GrenadeLauncher_C
+// Size: 0xaa2 (Inherited: 0x350)
+struct UBP_GrenadeLauncher_C : UAnimInstance {
+	struct FPointerToUberGraphFrame UberGraphFrame; // 0x350(0x08)
+	struct FAnimSubsystemInstance AnimBlueprintExtension_PropertyAccess; // 0x358(0x08)
+	struct FAnimSubsystemInstance AnimBlueprintExtension_Base; // 0x360(0x08)
+	struct FAnimNode_SequencePlayer ; // 0x368(0x40)
+	struct FAnimNode_ConvertLocalToComponentSpace AnimGraphNode_LocalToComponentSpace; // 0x3a8(0x20)
+	struct FAnimNode_ModifyBone AnimGraphNode_ModifyBone; // 0x3c8(0x128)
+	struct FAnimNode_ConvertComponentToLocalSpace AnimGraphNode_ComponentToLocalSpace; // 0x4f0(0x20)
+	struct FAnimNode_Slot AnimGraphNode_Slot; // 0x510(0x48)
+	struct FAnimNode_TransitionResult ; // 0x558(0x28)
+	struct FAnimNode_TransitionResult ; // 0x580(0x28)
+	struct FAnimNode_TransitionResult ; // 0x5a8(0x28)
+	struct FAnimNode_TransitionResult ; // 0x5d0(0x28)
+	struct FAnimNode_TransitionResult ; // 0x5f8(0x28)
+	struct FAnimNode_TransitionResult ; // 0x620(0x28)
+	struct FAnimNode_TransitionResult AnimGraphNode_TransitionResult; // 0x648(0x28)
+	struct FAnimNode_SequencePlayer ; // 0x670(0x40)
+	struct FAnimNode_StateResult ; // 0x6b0(0x20)
+	struct FAnimNode_SequencePlayer ; // 0x6d0(0x40)
+	struct FAnimNode_StateResult ; // 0x710(0x20)
+	struct FAnimNode_SequencePlayer ; // 0x730(0x40)
+	struct FAnimNode_StateResult ; // 0x770(0x20)
+	struct FAnimNode_SequencePlayer ; // 0x790(0x40)
+	struct FAnimNode_StateResult ; // 0x7d0(0x20)
+	struct FAnimNode_SequencePlayer ; // 0x7f0(0x40)
+	struct FAnimNode_StateResult ; // 0x830(0x20)
+	struct FAnimNode_SequencePlayer AnimGraphNode_SequencePlayer; // 0x850(0x40)
+	struct FAnimNode_StateResult ; // 0x890(0x20)
+	struct FAnimNode_RefPose AnimGraphNode_IdentityPose; // 0x8b0(0x10)
+	struct FAnimNode_StateResult AnimGraphNode_StateResult; // 0x8c0(0x20)
+	struct FAnimNode_StateMachine AnimGraphNode_StateMachine; // 0x8e0(0xc8)
+	struct FAnimNode_Root AnimGraphNode_Root; // 0x9a8(0x20)
+	struct FAnimNode_ApplyAdditive AnimGraphNode_ApplyAdditive; // 0x9c8(0xc8)
+	double CylinderROT; // 0xa90(0x08)
+	int32_t DrumPositionCount; // 0xa98(0x04)
+	bool ShouldRotateToPos1; // 0xa9c(0x01)
+	bool ShouldRotateToPos2; // 0xa9d(0x01)
+	bool ShouldRotateToPos3; // 0xa9e(0x01)
+	bool ShouldRotateToPos4; // 0xa9f(0x01)
+	bool ShouldRotateToPos5; // 0xaa0(0x01)
+	bool ShouldRotateToPos6; // 0xaa1(0x01)
+
+	void AnimGraph(struct FPoseLink& AnimGraph); // Function BP_GrenadeLauncher.BP_GrenadeLauncher_C.AnimGraph // (HasOutParms|BlueprintCallable|BlueprintEvent) // @ game+0xdef49c
+	void EvaluateGraphExposedInputs_ExecuteUbergraph_BP_GrenadeLauncher_AnimGraphNode_ModifyBone_EA2975074BE60949C2769EB733D75B15(); // Function BP_GrenadeLauncher.BP_GrenadeLauncher_C.EvaluateGraphExposedInputs_ExecuteUbergraph_BP_GrenadeLauncher_AnimGraphNode_ModifyBone_EA2975074BE60949C2769EB733D75B15 // (BlueprintEvent) // @ game+0xdef49c
+	void AnimNotify_RotateDrum(); // Function BP_GrenadeLauncher.BP_GrenadeLauncher_C.AnimNotify_RotateDrum // (BlueprintCallable|BlueprintEvent) // @ game+0xdef49c
+	void ExecuteUbergraph_BP_GrenadeLauncher(int32_t EntryPoint); // Function BP_GrenadeLauncher.BP_GrenadeLauncher_C.ExecuteUbergraph_BP_GrenadeLauncher // (Final|UbergraphFunction) // @ game+0xdef49c
+};
+
